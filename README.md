@@ -12,11 +12,11 @@ _,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
         \_.-'       |__|    `-._ |              '-.|     '-.| |   |
                                 `'                            '-._|
 ```
-# Pokélosophy — A Sabedoria dos Pokémon
+# Pokélosophy — A Sabedoria dos Pokémon ⋅˚₊‧ ୨🕮୧ ‧₊˚ ⋅
 
 > *“Às vezes, a força não está em atacar, mas em compreender.”* — Algum treinador Pokémon.
 
-## Sobre o projeto
+## Sobre o projeto ദ്ദി( • ᴗ - ) ✧
 
 O **Pokélosophy** é um mini programa feito em **C++**, criado para unir dois mundos:
 a **sabedoria filosófica** e o **universo Pokémon**.
@@ -28,7 +28,7 @@ Com o poder do `switch case`, o usuário escolhe um número e o programa revela:
 Uma forma divertida e reflexiva de praticar lógica de programação — e talvez, encontrar sentido na vida.
 ---
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 🖥ִׄ˚*ೃ༄
 
 * **C++**
 *  Estrutura de controle `switch case`
@@ -36,7 +36,7 @@ Uma forma divertida e reflexiva de praticar lógica de programação — e talve
 
 ---
 
-## Como executar
+## Como executar ִׄ˚ • 🗁 *ೃ༄
 
 1. Clone este repositório:
 
@@ -61,7 +61,7 @@ Uma forma divertida e reflexiva de praticar lógica de programação — e talve
 
 ---
 
-## Exemplo de uso
+## Exemplo de uso 𐔌՞. .՞𐦯
 
 ```text
 Escolha um número de 1 a 10:
@@ -101,13 +101,13 @@ Parabéns" Você tirou o Jigglypuff.
 
 ```
 
-## Ideia criativa
+## Ideia criativa ✎ᝰ.ᐟ⋆⑅˚₊
 
 Este projeto nasceu para mostrar que aprender C++ pode ser divertido de criar e também de interagir como usuário! Por isso, utilizei Pokémons em ASCII e pensei em adicionar frases junto com ele, fazendo uma estrutura de programa simples se tornar algo super criativo, como tirar seu biscoitinho da sorte Pokémon.**
 
 ---
 
-## Melhorias futuras
+## Melhorias futuras ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 * [ ] Adicionar mais Pokémon e frases
 * [ ] Criar uma versão com interface gráfica
@@ -115,10 +115,11 @@ Este projeto nasceu para mostrar que aprender C++ pode ser divertido de criar e 
 
 ---
 
-## Autoria
+## Autoria ✎ ⋆⑅˚₊
 
 Feito com carinho por **Melissa Filgueiras** 
 
 > “Por trás de toda a filosofia da humanidade — há um Pokémon.”
 
+─── ⋆⋅☆⋅⋆ ──
 ---
