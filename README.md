@@ -23,7 +23,7 @@ a **sabedoria filosófica** e o **universo Pokémon**.
 
 Com o poder do `switch case`, o usuário escolhe um número e o programa revela:
 **um desenho Pokémon em ASCII**
-**uma frase filosófica (que não necessariamente tem haver com o Pokémon — ou será que tem?.**
+**uma frase filosófica (que não necessariamente tem haver com o Pokémon — ou será que tem?)**
 
 Uma forma divertida e reflexiva de praticar lógica de programação — e talvez, encontrar sentido na vida.
 ---
