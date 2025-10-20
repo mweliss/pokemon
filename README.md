@@ -41,22 +41,22 @@ Uma forma divertida e reflexiva de praticar lógica de programação — e talve
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/pokephilosophy.git
+   git clone https://github.com/seuusuario/pokelosophy.git
    ```
 2. Entre na pasta do projeto:
 
    ```bash
-   cd pokephilosophy
+   cd pokelosophy
    ```
 3. Compile o código:
 
    ```bash
-   g++ main.cpp -o pokephilosophy
+   g++ main.cpp -o pokelosophy
    ```
 4. Execute o programa:
 
    ```bash
-   ./pokephilosophy
+   ./pokelosophy
    ```
 
 ---
