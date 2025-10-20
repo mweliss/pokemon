@@ -33,7 +33,7 @@ Uma forma divertida e reflexiva de praticar lógica de programação — e talve
 * **C++**
 *  Estrutura de controle `switch case`
 *  ASCII Art
-
+*  Muita filosofia!
 ---
 
 ## Como executar ִׄ˚ • 🗁 *ೃ༄
@@ -96,14 +96,15 @@ Saída:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠋⠉⠀⠀⠈⠉⠉⠉⢉⣹⡏⠁⠀⠀⠈⠛⢶⣤⣀⡀⠀⠀⠈⢻⣄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⣦⣤⣤⣤⣤⡴⠶⠶⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠛⠷⠶⠶⠟⠀⠀⠀⠀⠀
 ```
+
 Parabéns" Você tirou o Jigglypuff.
 "Todo apaixonado é um poeta - Platão"
 
-```
-
 ## Ideia criativa ✎ᝰ.ᐟ⋆⑅˚₊
 
-Este projeto nasceu para mostrar que aprender C++ pode ser divertido de criar e também de interagir como usuário! Por isso, utilizei Pokémons em ASCII e pensei em adicionar frases junto com ele, fazendo uma estrutura de programa simples se tornar algo super criativo, como tirar seu biscoitinho da sorte Pokémon.**
+Este projeto nasceu para mostrar que aprender C++ pode ser divertido de criar e também de interagir como usuário!
+Por isso, utilizei Pokémons em ASCII e pensei em adicionar frases junto com ele.
+Fazendo uma estrutura de programa simples se tornar algo super criativo, como tirar seu biscoitinho da sorte Pokémon.**
 
 ---
 
